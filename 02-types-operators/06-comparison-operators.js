@@ -1,9 +1,9 @@
 
 /*
 
-	Kod uspoređivanja, boolean tip sa vrijednosti false se uvijek pretvara u 0, undefined se pretvara u NaN, null se pretvara u 0.
+  Kod uspoređivanja, boolean tip sa vrijednosti false se uvijek pretvara u 0, undefined se pretvara u NaN, null se pretvara u 0.
 
-	=== je striktna provjera jednakosti. Ovaj operator ne pokušava pretvoriti različite tipove podataka u iste. Ako dvije vrijednosti nisu istog tipa, automatski se vraća false. Ovaj operator trebao bi se koristiti u 99% slučajeva.
+  === je striktna provjera jednakosti. Ovaj operator ne pokušava pretvoriti različite tipove podataka u iste. Ako dvije vrijednosti nisu istog tipa, automatski se vraća false. Ovaj operator trebao bi se koristiti u 99% slučajeva.
 
 */
 

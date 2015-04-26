@@ -1,9 +1,9 @@
 
 /*
 
-	Operator je specijalna funkcija koje se sintaktički piše drugačije od ostalih funkcija.
+  Operator je specijalna funkcija koje se sintaktički piše drugačije od ostalih funkcija.
 
-	U standardnim slučajevima, operatori primaju dva parametra i vraćaju jednu vrijednost.
+  U standardnim slučajevima, operatori primaju dva parametra i vraćaju jednu vrijednost.
 
 */
 

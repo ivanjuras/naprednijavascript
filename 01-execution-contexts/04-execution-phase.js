@@ -1,11 +1,11 @@
 /*
 
-	U fazi izvršenja JS engine (nakon što je u fazi stvaranja sve pripremljeno) ide liniju po liniju i tumači, pretvara, kompajlira i izvršava kod na računalu.
+  U fazi izvršenja JS engine (nakon što je u fazi stvaranja sve pripremljeno) ide liniju po liniju i tumači, pretvara, kompajlira i izvršava kod na računalu.
 
 */
 
 function b() {
-	console.log( 'Pozvao sam b!' );
+  console.log( 'Pozvao sam b!' );
 }
 
 // prva linija izvršavanja - pozovi već pripremljenu funkciju b

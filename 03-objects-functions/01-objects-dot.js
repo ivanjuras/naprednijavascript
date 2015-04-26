@@ -1,13 +1,13 @@
 
 /*
 
-	Objekti u Javascriptu su jednostavno kolekcije ključeva-vrijednosti (name value pairs).
+  Objekti u Javascriptu su jednostavno kolekcije ključeva-vrijednosti (name value pairs).
 
-	Objekt može imati svojstva i metode (properties and methods).
+  Objekt može imati svojstva i metode (properties and methods).
 
-	Svojstva mogu sadržavati primitivne tipove i druge objekte. Metode su funkcije na objektu (isto svojstvo, ali se nazivaju 'metodom').
+  Svojstva mogu sadržavati primitivne tipove i druge objekte. Metode su funkcije na objektu (isto svojstvo, ali se nazivaju 'metodom').
 
-	Objekt sadržava reference na svoja svojstva i metode.
+  Objekt sadržava reference na svoja svojstva i metode.
 
 */
 
