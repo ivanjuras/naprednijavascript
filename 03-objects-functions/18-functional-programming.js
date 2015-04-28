@@ -72,4 +72,4 @@ jeLiClanVeciOd = function( broj ) {
 
 // Sada imamo kod koji je jako razumljiv i čitak. Za svaki član polja koje prosljeđujemo gledamo je li veći od 4, i to novo polje spremamo u novu varijablu.
 var sestoPolje = zaSvakiClan( polje, jeLiClanVeciOd(4) );
-console.log( 'Šesto polje: ' + petoPolje );
+console.log( 'Šesto polje: ' + sestoPolje );
