@@ -9,7 +9,7 @@
 
 */
 
-// Zamislimo da iz jednog polja želimo dobiti drugo polje na način da svaki član prvog polja modificiramo na neki način. Ovako bi to izgledalo na standardni način:
+// Zamislimo da iz jednog polja želimo dobiti drugo polje na način da svaki član prvog polja modificiramo. Ovako bi to izgledalo na standardni način:
 var polje = [ 1, 2, 3, 4, 5 ];
 var drugoPolje = [];
 console.log( 'Prvo polje: '  + polje );
